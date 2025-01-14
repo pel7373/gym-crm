@@ -1,0 +1,10 @@
+[{
+  "id" : 0,
+  "traineeId" : 1,
+  "trainerId" : 2,
+  "trainingName" : "new program for week",
+  "trainingDate" : "2025-02-17",
+  "trainingDuration" : 30,
+  "trainingType" : "STRETCHING"
+}
+]

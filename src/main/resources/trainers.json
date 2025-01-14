@@ -1,0 +1,65 @@
+[ {
+  "id" : 0,
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "userName" : "John.Doe",
+  "password" : "iqOt^Iq0Ji",
+  "isActive" : true,
+  "specialization" : "YOGA"
+}, {
+  "id" : 2,
+  "firstName" : "Jane",
+  "lastName" : "Doe",
+  "userName" : "Jane.Doe",
+  "password" : "r|zon'&Uk_",
+  "isActive" : false,
+  "specialization" : "STRETCHING"
+}, {
+  "id" : 5,
+  "firstName" : "Jane",
+  "lastName" : "Doe",
+  "userName" : "Jane.Doe0",
+  "password" : "Zn+]heMAX|",
+  "isActive" : true,
+  "specialization" : "STRETCHING"
+}, {
+  "id" : 6,
+  "firstName" : "Jane",
+  "lastName" : "Doe",
+  "userName" : "Jane.Doe1",
+  "password" : "yWbisB91bz",
+  "isActive" : false,
+  "specialization" : "RESISTANCE"
+}, {
+  "id" : 7,
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "userName" : "John.Doe0",
+  "password" : "#.pkO}Pipt",
+  "isActive" : true,
+  "specialization" : "STRETCHING"
+}, {
+  "id" : 8,
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "userName" : "John.Doe1",
+  "password" : "N-owa@hh>8",
+  "isActive" : true,
+  "specialization" : "YOGA"
+}, {
+  "id" : 9,
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "userName" : "John.Doe2",
+  "password" : "|}DZ0|1\\@P",
+  "isActive" : true,
+  "specialization" : "YOGA"
+}, {
+  "id" : 10,
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "userName" : "John.Doe3",
+  "password" : "jkj.t{yxCx",
+  "isActive" : true,
+  "specialization" : "YOGA"
+} ]

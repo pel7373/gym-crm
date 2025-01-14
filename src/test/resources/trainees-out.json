@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "firstName" : "Maria",
+  "lastName" : "Ivanenko",
+  "userName" : "Maria.Ivanenko0",
+  "password" : "P,G+k]@{nd",
+  "isActive" : true,
+  "dateOfBirth" : "2025-01-03",
+  "address" : "Vinnitsya, Soborna str. 25, ap. 16"
+}, {
+  "id" : 2,
+  "firstName" : "Maria",
+  "lastName" : "Ivanenko",
+  "userName" : "Maria.Ivanenko1",
+  "password" : "$jb.Q:jy8?",
+  "isActive" : true,
+  "dateOfBirth" : "1990-02-23",
+  "address" : "Vinnitsya, Soborna str. 15, ap. 6"
+} ]
